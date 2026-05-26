@@ -24,16 +24,47 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
 - Led a team of 5 members during project execution
 
 ## Project Images
-![Drone](drone%20project%20photos/1.jpg)
-![Drone](drone%20project%20photos/2.jpg)
-![Drone](drone%20project%20photos/3.jpg)
-![Drone](drone%20project%20photos/4.jpg)
-![Drone](drone%20project%20photos/5.jpg)
-![Drone](drone%20project%20photos/6.jpg)
-![Drone](drone%20project%20photos/7.jpg)
-![Drone](drone%20project%20photos/8.jpg)
-![Drone](drone%20project%20photos/9.jpg)
-![Drone](drone%20project%20photos/10.jpg)
+## Project Images
+
+<p align="center">
+  <img src="drone%20project%20photos/1.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/2.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/3.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/4.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/5.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/6.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/7.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/8.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/9.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="drone%20project%20photos/10.jpg" width="500"/>
+</p>
 
 ## Project Documentation
 
