@@ -12,7 +12,7 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
 
 ## Technologies Used
 - Arduino
-- Pixhawk / KK2
+- KK2
 - Brushless Motors
 - ESCs
 - IoT Sensors
