@@ -37,4 +37,5 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
 
 ## Project Documentation
 
-[View Full Project Report](drone%20report/Firefighting_Drone_Project_Report.pdf)
+[Project Report](drone%20report/Drone_project_report.pdf)
+[Project Report](drone%20report/Drone_project_report_synopsis.pdf)
