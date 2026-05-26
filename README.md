@@ -19,6 +19,7 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
 
 ## My Contribution
 - Worked on embedded system integration
+- Research & Development 
 - Coordinated sensor-based workflows
 - Assisted in UAV assembly and system functionality
 - Led a team of 5 members during project execution
