@@ -26,14 +26,13 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
 - Led a team of 5 members during project execution
 
 ## Project Images
-
-![Drone](Images/drone project photos/1.jpg)
-![Drone](Images/2.jpg)
-![Drone](Images/3.jpg)
-![Drone](Images/4.jpg)
-![Drone](Images/5.jpg)
-![Drone](Images/6.jpg)
-![Drone](Images/7.jpg)
-![Drone](Images/8.jpg)
-![Drone](Images/9.jpg)
-![Drone](Images/10.jpg)
+![Drone](drone%20project%20photos/1.jpg)
+![Drone](drone%20project%20photos/2.jpg)
+![Drone](drone%20project%20photos/3.jpg)
+![Drone](drone%20project%20photos/4.jpg)
+![Drone](drone%20project%20photos/5.jpg)
+![Drone](drone%20project%20photos/6.jpg)
+![Drone](drone%20project%20photos/7.jpg)
+![Drone](drone%20project%20photos/8.jpg)
+![Drone](drone%20project%20photos/9.jpg)
+![Drone](drone%20project%20photos/10.jpg)
