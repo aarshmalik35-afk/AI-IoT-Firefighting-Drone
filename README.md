@@ -62,9 +62,6 @@ This project focuses on developing a semi-autonomous UAV system for fire monitor
   <img src="drone%20project%20photos/9.jpg" width="500"/>
 </p>
 
-<p align="center">
-  <img src="drone%20project%20photos/10.jpg" width="500"/>
-</p>
 
 ## Project Documentation
 
