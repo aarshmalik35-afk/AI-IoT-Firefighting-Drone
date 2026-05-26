@@ -1,5 +1,3 @@
-# AI-IoT-Firefighting-Drone
-
 # AI & IoT-Based Semi-Autonomous Firefighting Drone
 
 ## Overview
